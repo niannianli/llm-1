@@ -1,0 +1,1 @@
+ask copilot to generate a main file as python program entry point
